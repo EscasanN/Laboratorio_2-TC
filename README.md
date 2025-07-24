@@ -2,7 +2,7 @@
 
 ## Autores
 - 22046 - Nelson Escalante
-- Nombre 1
+- 23384 - Eliazar Canastuj
 - Nombre 2
 
 ## Descripcion
